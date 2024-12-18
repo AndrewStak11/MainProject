@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AllCourses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Button" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ButtonClick" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ButtonPositive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CenterRegistor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Click" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Colaboration2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Collaboration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CucumberTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Feedback" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaQA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Media" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Negative" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PhoneClick" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SearchInside" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SearchingTest" vcs="Git" />
+  </component>
+</project>
